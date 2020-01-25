@@ -47,6 +47,10 @@ function runSpeedTest(){
               }); // write it back 
         }});
     })
+
+    test.on('error', handleError => {
+        console.error(handleError);
+    });
 }
 
 
