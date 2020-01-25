@@ -8,6 +8,7 @@ console.log("Start time: " + timeConverter(Date.now()));
 
 var intervall = process.argv[2];
 
+runSpeedTest();
 setInterval(runSpeedTest, intervall);
 
 function timeConverter(UNIX_timestamp){
