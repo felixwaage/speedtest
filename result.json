@@ -1,0 +1,694 @@
+{
+  "result": [
+    {
+      "speeds": {
+        "download": 137.598,
+        "upload": 81.548,
+        "originalDownload": 15153938,
+        "originalUpload": 8949482
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.witcom.cloud:8080",
+        "lat": 50.0782,
+        "lon": 8.2398,
+        "location": "Wiesbaden",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "WiTCOM",
+        "distance": 0.83,
+        "distanceMi": 0.51,
+        "ping": 22.3,
+        "id": "29320"
+      }
+    },
+    {
+      "speeds": {
+        "download": 112.881,
+        "upload": 76.855,
+        "originalDownload": 12431784,
+        "originalUpload": 8434459
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 21.3,
+        "id": "1746"
+      }
+    },
+    {
+      "speeds": {
+        "download": 99.479,
+        "upload": 77.674,
+        "originalDownload": 10955832,
+        "originalUpload": 8524346
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 20.6,
+        "id": "1746"
+      }
+    },
+    {
+      "speeds": {
+        "download": 157.758,
+        "upload": 70.029,
+        "originalDownload": 17374232,
+        "originalUpload": 7685356
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.witcom.cloud:8080",
+        "lat": 50.0782,
+        "lon": 8.2398,
+        "location": "Wiesbaden",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "WiTCOM",
+        "distance": 0.83,
+        "distanceMi": 0.51,
+        "ping": 19.2,
+        "id": "29320"
+      },
+      "timestamp": 1579787371381
+    },
+    {
+      "speeds": {
+        "download": 158.447,
+        "upload": 76.356,
+        "originalDownload": 17450114,
+        "originalUpload": 8379706
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.witcom.cloud:8080",
+        "lat": 50.0782,
+        "lon": 8.2398,
+        "location": "Wiesbaden",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "WiTCOM",
+        "distance": 0.83,
+        "distanceMi": 0.51,
+        "ping": 23.7,
+        "id": "29320"
+      },
+      "timestamp": 1579787376251
+    },
+    {
+      "speeds": {
+        "download": 73.167,
+        "upload": 38.537,
+        "originalDownload": 8058023,
+        "originalUpload": 4229228
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "lg.fra2-c.fdcservers.net:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "fdcservers.net",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 20,
+        "id": "10010"
+      },
+      "timestamp": "25 Jun 52031 2:58:17"
+    },
+    {
+      "speeds": {
+        "download": 128.13,
+        "upload": 66.716,
+        "originalDownload": 14111193,
+        "originalUpload": 7321725
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtestfr.gemnet.mn:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Gemnet LLC",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 22.2,
+        "id": "21528"
+      },
+      "timestamp": "25 Jun 52031 4:20:13"
+    },
+    {
+      "speeds": {
+        "download": 103.062,
+        "upload": 82.667,
+        "originalDownload": 11350459,
+        "originalUpload": 9072314
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 20.7,
+        "id": "1746"
+      },
+      "timestamp": "25 Jun 52031 6:22:1"
+    },
+    {
+      "speeds": {
+        "download": 103.236,
+        "upload": 61.111,
+        "originalDownload": 11369638,
+        "originalUpload": 6706647
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 19,
+        "id": "1746"
+      },
+      "timestamp": "23 Jan 2020 14:56:46"
+    },
+    {
+      "speeds": {
+        "download": 138.279,
+        "upload": 39.625,
+        "originalDownload": 15228952,
+        "originalUpload": 4348616
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtestfr.gemnet.mn:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Gemnet LLC",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 20.3,
+        "id": "21528"
+      },
+      "timestamp": "23 Jan 2020 14:56:54"
+    },
+    {
+      "speeds": {
+        "download": 98.474,
+        "upload": 13.793,
+        "originalDownload": 10845201,
+        "originalUpload": 1513690
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 19.3,
+        "id": "1746"
+      },
+      "timestamp": "23 Jan 2020 14:57:3"
+    },
+    {
+      "speeds": {
+        "download": 119.214,
+        "upload": 71.235,
+        "originalDownload": 13129321,
+        "originalUpload": 7817738
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.witcom.cloud:8080",
+        "lat": 50.0782,
+        "lon": 8.2398,
+        "location": "Wiesbaden",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "WiTCOM",
+        "distance": 0.83,
+        "distanceMi": 0.51,
+        "ping": 3600,
+        "id": "29320"
+      },
+      "timestamp": "23 Jan 2020 14:57:15"
+    },
+    {
+      "speeds": {
+        "download": 59.955,
+        "upload": 44.696,
+        "originalDownload": 6602976,
+        "originalUpload": 4905167
+      },
+      "client": {
+        "ip": "141.72.157.229",
+        "lat": 50.0847,
+        "lon": 8.2454,
+        "isp": "Universitaet Stuttgart",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.vodafone-ip.de:8080",
+        "lat": 50.1109,
+        "lon": 8.6821,
+        "location": "Frankfurt",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Vodafone DE",
+        "distance": 31.29,
+        "distanceMi": 19.44,
+        "ping": 33,
+        "id": "1746"
+      },
+      "timestamp": "23 Jan 2020 14:57:19"
+    },
+    {
+      "speeds": {
+        "download": 3.808,
+        "upload": 0.399,
+        "originalDownload": 419356,
+        "originalUpload": 43770
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.twl-kom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "TWL-KOM",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 80.8,
+        "id": "10291"
+      },
+      "timestamp": "23 Jan 2020 20:53:12"
+    },
+    {
+      "speeds": {
+        "download": 1.281,
+        "upload": 1.291,
+        "originalDownload": 141028,
+        "originalUpload": 141694
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.twl-kom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "TWL-KOM",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 49.4,
+        "id": "10291"
+      },
+      "timestamp": "23 Jan 2020 20:53:15"
+    },
+    {
+      "speeds": {
+        "download": 6.935,
+        "upload": 2.024,
+        "originalDownload": 763716,
+        "originalUpload": 222136
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.pfalzkom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Pfalzkom GMBH",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 51.5,
+        "id": "28818"
+      },
+      "timestamp": "23 Jan 2020 20:59:35"
+    },
+    {
+      "speeds": {
+        "download": 2.918,
+        "upload": 2.021,
+        "originalDownload": 321331,
+        "originalUpload": 221799
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.twl-kom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "TWL-KOM",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 65.2,
+        "id": "10291"
+      },
+      "timestamp": "23 Jan 2020 20:59:45"
+    },
+    {
+      "speeds": {
+        "download": 5.893,
+        "upload": 0.424,
+        "originalDownload": 649004,
+        "originalUpload": 46518
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.pfalzkom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Pfalzkom GMBH",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 66.2,
+        "id": "28818"
+      },
+      "timestamp": "23 Jan 2020 20:59:57"
+    },
+    {
+      "speeds": {
+        "download": 7.671,
+        "upload": 1.172,
+        "originalDownload": 844874,
+        "originalUpload": 128626
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.pfalzkom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Pfalzkom GMBH",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 78.8,
+        "id": "28818"
+      },
+      "timestamp": "23 Jan 2020 20:59:58"
+    },
+    {
+      "speeds": {
+        "download": 2.898,
+        "upload": 1.785,
+        "originalDownload": 319178,
+        "originalUpload": 195920
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "sp1.mbn-glasfaser.de:8080",
+        "lat": 49.2717,
+        "lon": 8.2717,
+        "location": "Freisbach",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Mobile Breitbandnetze GmbH",
+        "distance": 33.7,
+        "distanceMi": 20.94,
+        "ping": 57.9,
+        "id": "4462"
+      },
+      "timestamp": "23 Jan 2020 21:0:5"
+    },
+    {
+      "speeds": {
+        "download": 4.832,
+        "upload": 1.568,
+        "originalDownload": 532110,
+        "originalUpload": 172065
+      },
+      "client": {
+        "ip": "176.199.208.203",
+        "lat": 49.4071,
+        "lon": 8.6879,
+        "isp": "Unitymedia",
+        "isprating": 3.7,
+        "rating": 0,
+        "ispdlavg": 0,
+        "ispulavg": 0,
+        "country": "DE"
+      },
+      "server": {
+        "host": "speedtest.pfalzkom.de:8080",
+        "lat": 49.4811,
+        "lon": 8.4353,
+        "location": "Ludwigshafen",
+        "country": "Germany",
+        "cc": "DE",
+        "sponsor": "Pfalzkom GMBH",
+        "distance": 20.03,
+        "distanceMi": 12.45,
+        "ping": 54.1,
+        "id": "28818"
+      },
+      "timestamp": "23 Jan 2020 21:0:21"
+    }
+  ]
+}
